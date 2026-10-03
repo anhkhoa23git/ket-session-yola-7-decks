@@ -1,0 +1,392 @@
+[
+ [
+  "S2 all",
+  "S2 footer unify (24x)",
+  24
+ ],
+ [
+  "S2·5",
+  "S2-1a take turns + 3 words",
+  0
+ ],
+ [
+  "S2·5",
+  "S2-1b once only",
+  0
+ ],
+ [
+  "S2·13",
+  "S2-4 US->UK cinema",
+  1
+ ],
+ [
+  "S2·18",
+  "S2-5a example punctuation",
+  0
+ ],
+ [
+  "S2·18",
+  "S2-5b long answer",
+  1
+ ],
+ [
+  "S2·18",
+  "S2-5c full stop",
+  1
+ ],
+ [
+  "S2·19",
+  "S2-6a take turns",
+  0
+ ],
+ [
+  "S2·20",
+  "S2-7 speaking not writing",
+  0
+ ],
+ [
+  "S2·20",
+  "S2-8 favourite",
+  0
+ ],
+ [
+  "S2·22",
+  "S2-9 distractors",
+  0
+ ],
+ [
+  "S3·18",
+  "S3-7 retitle",
+  1
+ ],
+ [
+  "S3·26",
+  "S3-12a greeting",
+  1
+ ],
+ [
+  "S3·26",
+  "S3-12b sign-off",
+  1
+ ],
+ [
+  "S3·26",
+  "S3-15 rename (has MODEL ANSWER chip)",
+  1
+ ],
+ [
+  "S4·6",
+  "S4-2a grammar",
+  1
+ ],
+ [
+  "S4·6",
+  "S4-2b grammar",
+  1
+ ],
+ [
+  "S4·6",
+  "S4-2c grammar",
+  1
+ ],
+ [
+  "S4·19",
+  "S4-4 match to",
+  1
+ ],
+ [
+  "S4·21",
+  "S4-6 meaning as",
+  1
+ ],
+ [
+  "S4·28",
+  "S4-10a the receiver",
+  1
+ ],
+ [
+  "S4·28",
+  "S4-10b tense question",
+  1
+ ],
+ [
+  "S4·28",
+  "S4-10c answer",
+  1
+ ],
+ [
+  "S4·29",
+  "S4-9a email",
+  1
+ ],
+ [
+  "S4·29",
+  "S4-9b email",
+  1
+ ],
+ [
+  "S4·29",
+  "S4-9c muddled point",
+  1
+ ],
+ [
+  "S4·32",
+  "S4-11 plan/model mismatch",
+  0
+ ],
+ [
+  "S4·33",
+  "S4-11 rename",
+  1
+ ],
+ [
+  "S5 all",
+  "S5 footer unify (10x)",
+  10
+ ],
+ [
+  "S5·6",
+  "S5-1 typo+clarity",
+  1
+ ],
+ [
+  "S5·11",
+  "S5-2 single words",
+  0
+ ],
+ [
+  "S5·13",
+  "S5-4a",
+  1
+ ],
+ [
+  "S5·13",
+  "S5-4b",
+  1
+ ],
+ [
+  "S5·13",
+  "S5-4c",
+  1
+ ],
+ [
+  "S5·20",
+  "S5-7a five pictures",
+  0
+ ],
+ [
+  "S5·20",
+  "S5-7b phase 2",
+  0
+ ],
+ [
+  "S5·24",
+  "S5-9a in London",
+  1
+ ],
+ [
+  "S5·24",
+  "S5-9b advice",
+  0
+ ],
+ [
+  "S6·6",
+  "S6-2a grammar",
+  0
+ ],
+ [
+  "S6·6",
+  "S6-2b grammar",
+  0
+ ],
+ [
+  "S6·6",
+  "S6-2c grammar",
+  0
+ ],
+ [
+  "S6·12",
+  "S6-3 state answer",
+  1
+ ],
+ [
+  "S6·12",
+  "S6-3 bullet A",
+  0
+ ],
+ [
+  "S6·12",
+  "S6-3 bullet C",
+  0
+ ],
+ [
+  "S6·13",
+  "S6-4 reveal answer",
+  1
+ ],
+ [
+  "S6·15",
+  "S6-5 UK spelling",
+  1
+ ],
+ [
+  "S6·31",
+  "S6-10a",
+  1
+ ],
+ [
+  "S6·31",
+  "S6-10b",
+  1
+ ],
+ [
+  "S6·31",
+  "S6-10c",
+  1
+ ],
+ [
+  "S6·32",
+  "S6-11a missing Jane",
+  1
+ ],
+ [
+  "S6·32",
+  "S6-11b its",
+  1
+ ],
+ [
+  "S6·35",
+  "S6-13 on a sunny day",
+  1
+ ],
+ [
+  "S6·36",
+  "S6-14 rename",
+  1
+ ],
+ [
+  "S6·36",
+  "S6-14 full stop",
+  1
+ ],
+ [
+  "S6·39",
+  "S6-14 full stop (recap)",
+  1
+ ],
+ [
+  "S7·2",
+  "S7-1 objective Part 4",
+  1
+ ],
+ [
+  "S7·8",
+  "S7-2 title",
+  1
+ ],
+ [
+  "S7·8",
+  "S7-2 vocabulary claim",
+  1
+ ],
+ [
+  "S7·9",
+  "S7-2 label",
+  1
+ ],
+ [
+  "S7·10",
+  "S7-7 label",
+  1
+ ],
+ [
+  "S7·10",
+  "S7-5 meaning",
+  0
+ ],
+ [
+  "S7·22",
+  "S7-7 label",
+  1
+ ],
+ [
+  "S7·28",
+  "S7-10a",
+  1
+ ],
+ [
+  "S7·29",
+  "S7-9 missing James",
+  1
+ ],
+ [
+  "S7·33",
+  "S7-11 rename",
+  1
+ ],
+ [
+  "S7·33",
+  "S7-11 simplify story",
+  1
+ ],
+ [
+  "S8 all",
+  "S8 footer unify (10x)",
+  10
+ ],
+ [
+  "S8·5",
+  "S8-1a retitle",
+  1
+ ],
+ [
+  "S8·5",
+  "S8-1b meaning as",
+  0
+ ],
+ [
+  "S8·12",
+  "S8-2 example fix",
+  0
+ ],
+ [
+  "S8·16",
+  "S8-3a script",
+  0
+ ],
+ [
+  "S8·16",
+  "S8-3b script",
+  1
+ ],
+ [
+  "S8·16",
+  "S8-3c script",
+  1
+ ],
+ [
+  "S8·21",
+  "S8-7a five pictures",
+  0
+ ],
+ [
+  "S8·21",
+  "S8-7b phase 2",
+  0
+ ],
+ [
+  "S8·26",
+  "S8-8 rubric",
+  1
+ ],
+ [
+  "S8·30",
+  "S8-11a",
+  0
+ ],
+ [
+  "S8·30",
+  "S8-11b",
+  0
+ ]
+]
